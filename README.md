@@ -7,10 +7,10 @@
 ![Works with macOS](https://img.shields.io/badge/Works_with-macOS-blue?style=flat-square)
 ![Works with tvOS](https://img.shields.io/badge/Works_with-tvOS-blue?style=flat-square)
 ![Works with visionOS](https://img.shields.io/badge/Works_with-visionOS-blue?style=flat-square)
-![Works with Chrome](https://img.shields.io/badge/Works_with-Chrome-blue?style=flat-square)
-![Works with Edge](https://img.shields.io/badge/Works_with-Edge-blue?style=flat-square)
+![Works with Google Chrome](https://img.shields.io/badge/Works_with-Chrome-blue?style=flat-square)
+![Works with Microsoft Edge](https://img.shields.io/badge/Works_with-Edge-blue?style=flat-square)
 
-[![EXTENSION.app](https://github.com/xapp/.github/blob/main/profile/banner.png)](https://extension.app)
+[![EXTENSION.app](https://github.com/extensionapp/.github/blob/main/profile/banner.png)](https://extension.app)
 
 * Website: https://extension.app
 * Apple App Store: [https://apps.apple.com/app/id1533525753](https://apps.apple.com/app/apple-store/id1533525753?pt=119131575&ct=GitHub-Page&mt=8)
