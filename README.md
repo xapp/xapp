@@ -13,7 +13,7 @@
 ![Works with Firefox](https://img.shields.io/badge/Works_with-Firefox-blue?style=flat-square)
 
 
-[![EXTENSION.app](/Assets/Images/banner_icon-2400x800.png)](https://extension.app)
+[![EXTENSION.app](Assets/Images/banner_icon-2400x800.png)](https://extension.app)
 
 
 | Website | [https://extension.app](https://extension.app) |
