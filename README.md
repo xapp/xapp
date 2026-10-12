@@ -10,7 +10,7 @@
 ![Works with Google Chrome](https://img.shields.io/badge/Works_with-Chrome-blue?style=flat-square)
 ![Works with Microsoft Edge](https://img.shields.io/badge/Works_with-Edge-blue?style=flat-square)
 
-[![EXTENSION.app](https://github.com/extensionapp/.github/blob/main/profile/banner.png)](https://extension.app)
+[![EXTENSION.app](/Assets/Images/banner_icon-2400x800.png)](https://extension.app)
 
 * Website: https://extension.app
 * Apple App Store: [https://apps.apple.com/app/id1533525753](https://apps.apple.com/app/apple-store/id1533525753?pt=119131575&ct=GitHub-Page&mt=8)
