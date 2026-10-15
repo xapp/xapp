@@ -16,6 +16,9 @@
 [![EXTENSION.app](Assets/Images/banner_icon-2400x800.png)](https://extension.app)
 
 
+EXTENSION.app is the all-in-one extension app for iOS, iPadOS, iMessage, watchOS, macOS, tvOS, visionOS and Windows, with companion browser extensions for Safari, Google Chrome, Microsoft Edge and Firefox.
+
+
 | Website | [https://extension.app](https://extension.app) |
 | :--- | :--- |
 | **App** | |
